@@ -35,6 +35,30 @@
     </item>
     
     <item>
+      <title>The structural basis for kinetochore stabilization by Cnn1/CENP-T</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the yeast Ctf3 complex</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the Ctf19c/CCAN from budding yeast</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>https://hinshawhinshaw.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -169,9 +193,9 @@ Three
     </item>
     
     <item>
-      <title>The Kinetochore Receptor for the Cohesin Loading Complex</title>
+      <title>The kinetochore receptor for the cohesin loading complex</title>
       <link>https://hinshawhinshaw.github.io/publication/hinshaw_2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2017/</guid>
       <description></description>
     </item>
@@ -198,30 +222,18 @@ Three
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://hinshawhinshaw.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Structural evidence for Scc4-dependent localization of cohesin loading</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2015b/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2015b/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>The Bioactive Lipid 4-Hydroxyphenyl Retinamide Inhibits Flavivirus Replication</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2015/</link>
+      <title>The bioactive lipid 4-Hydroxyphenyl Retinamide inhibits flavivirus replication</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2015a/</link>
       <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2015/</guid>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2015a/</guid>
       <description></description>
     </item>
     

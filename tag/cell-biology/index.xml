@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cell biology | S. M. Hinshaw</title>
+    <link>https://hinshawhinshaw.github.io/tag/cell-biology/</link>
+      <atom:link href="https://hinshawhinshaw.github.io/tag/cell-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>cell biology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hinshawhinshaw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>cell biology</title>
+      <link>https://hinshawhinshaw.github.io/tag/cell-biology/</link>
+    </image>
+    
+    <item>
+      <title>The structural basis for kinetochore stabilization by Cnn1/CENP-T</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the yeast Ctf3 complex</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the Ctf19c/CCAN from budding yeast</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The kinetochore receptor for the cohesin loading complex</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2017/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural evidence for Scc4-dependent localization of cohesin loading</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2015b/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2015b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

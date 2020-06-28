@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cryo-EM | S. M. Hinshaw</title>
+    <link>https://hinshawhinshaw.github.io/tag/cryo-em/</link>
+      <atom:link href="https://hinshawhinshaw.github.io/tag/cryo-em/index.xml" rel="self" type="application/rss+xml" />
+    <description>cryo-EM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hinshawhinshaw.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>cryo-EM</title>
+      <link>https://hinshawhinshaw.github.io/tag/cryo-em/</link>
+    </image>
+    
+    <item>
+      <title>The structural basis for kinetochore stabilization by Cnn1/CENP-T</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the yeast Ctf3 complex</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the Ctf19c/CCAN from budding yeast</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
