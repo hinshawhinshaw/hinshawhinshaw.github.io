@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery | S. M. Hinshaw</title>
+    <link>https://hinshawhinshaw.github.io/photo/</link>
+      <atom:link href="https://hinshawhinshaw.github.io/photo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gallery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <image>
+      <url>https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png</url>
+      <title>Gallery</title>
+      <link>https://hinshawhinshaw.github.io/photo/</link>
+    </image>
+    
+  </channel>
+</rss>
