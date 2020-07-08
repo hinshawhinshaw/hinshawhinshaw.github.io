@@ -1,62 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stephen M. Hinshaw | S. M. Hinshaw</title>
+    <title>Stephen M. Hinshaw* | S. M. Hinshaw</title>
     <link>https://hinshawhinshaw.github.io/author/stephen-m.-hinshaw/</link>
       <atom:link href="https://hinshawhinshaw.github.io/author/stephen-m.-hinshaw/index.xml" rel="self" type="application/rss+xml" />
-    <description>Stephen M. Hinshaw</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <description>Stephen M. Hinshaw*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hinshawhinshaw.github.io/author/stephen-m.-hinshaw/avatar_hucafe39d2adbd0d591e409b66438e452d_6020829_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Stephen M. Hinshaw</title>
+      <url>https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png</url>
+      <title>Stephen M. Hinshaw*</title>
       <link>https://hinshawhinshaw.github.io/author/stephen-m.-hinshaw/</link>
     </image>
     
     <item>
-      <title>The structural basis for kinetochore stabilization by Cnn1/CENP-T</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2020/</guid>
+      <title>Molecular structures of yeast kinetochore subcomplexes and their roles in chromosome segregation</title>
+      <link>https://hinshawhinshaw.github.io/publication/jenni_2017_review/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/jenni_2017_review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The structure of the yeast Ctf3 complex</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019b/</guid>
+      <title>The kinetochore receptor for the cohesin loading complex</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2017/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The structure of the Ctf19c/CCAN from budding yeast</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2019a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kinetochore function from the bottom up</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2018_review/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2018_review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structural evidence for Scc4-dependent localization of cohesin loading</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2015b/</link>
-      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2015b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Iml3-Chl4 heterodimer links the core centromere to factors required for accurate chromosome segregation</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2013/</link>
-      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2013/</guid>
+      <title>The bioactive lipid 4-Hydroxyphenyl Retinamide inhibits flavivirus replication</title>
+      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2015a/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2015a/</guid>
       <description></description>
     </item>
     
