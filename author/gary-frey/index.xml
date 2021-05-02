@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gary Frey | S. M. Hinshaw</title>
+    <link>https://hinshawhinshaw.github.io/author/gary-frey/</link>
+      <atom:link href="https://hinshawhinshaw.github.io/author/gary-frey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gary Frey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png</url>
+      <title>Gary Frey</title>
+      <link>https://hinshawhinshaw.github.io/author/gary-frey/</link>
+    </image>
+    
+    <item>
+      <title>Recognition of Divergent Viral Substrates by the SARS-CoV-2 Main Protease</title>
+      <link>https://hinshawhinshaw.github.io/publication/macdonald_2021/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/publication/macdonald_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

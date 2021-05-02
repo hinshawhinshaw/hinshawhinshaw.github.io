@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="HHMI/HHWF Postdoctoral Fellow">
+  <meta name="description" content="Scientist, Stanford Cancer Institute">
 
   
   <link rel="alternate" hreflang="en-us" href="https://hinshawhinshaw.github.io/tags/">
@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171543135-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-171543135-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -237,10 +275,10 @@
   <meta property="og:site_name" content="S. M. Hinshaw">
   <meta property="og:url" content="https://hinshawhinshaw.github.io/tags/">
   <meta property="og:title" content="Tags | S. M. Hinshaw">
-  <meta property="og:description" content="HHMI/HHWF Postdoctoral Fellow"><meta property="og:image" content="https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Scientist, Stanford Cancer Institute"><meta property="og:image" content="https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-05-05T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-04-21T00:00:00&#43;00:00">
   
 
   
@@ -350,7 +388,51 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/about/"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/journal_club/"><span>Journal Club</span></a>
         </li>
 
         
@@ -395,35 +477,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/contact/"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#home"><span>Home</span></a>
         </li>
 
         
@@ -486,6 +539,36 @@
   
 
   
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/genome-replication3/" >genome replication3</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/retinoic-acid/" >retinoic acid</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tag/therapeutics/" >therapeutics</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
   
     
     
@@ -641,22 +724,7 @@
 
 
 
-  <p class="powered-by">
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
+ </footer>
 
   </div>
   
