@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiaxi Cai | S. M. Hinshaw</title>
-    <link>https://hinshawhinshaw.github.io/author/jiaxi-cai/</link>
-      <atom:link href="https://hinshawhinshaw.github.io/author/jiaxi-cai/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jiaxi Cai</description>
+    <title>X-ray crystallography | S. M. Hinshaw</title>
+    <link>https://hinshawhinshaw.github.io/tag/x-ray-crystallography/</link>
+      <atom:link href="https://hinshawhinshaw.github.io/tag/x-ray-crystallography/index.xml" rel="self" type="application/rss+xml" />
+    <description>X-ray crystallography</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png</url>
-      <title>Jiaxi Cai</title>
-      <link>https://hinshawhinshaw.github.io/author/jiaxi-cai/</link>
+      <title>X-ray crystallography</title>
+      <link>https://hinshawhinshaw.github.io/tag/x-ray-crystallography/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://hinshawhinshaw.github.io/publication/deng_2023/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://hinshawhinshaw.github.io/publication/deng_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-site phosphorylation of yeast Mif2/CENP-C promotes inner kinetochore assembly</title>
-      <link>https://hinshawhinshaw.github.io/publication/hinshaw_2021/</link>
-      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://hinshawhinshaw.github.io/publication/hinshaw_2021/</guid>
       <description></description>
     </item>
     
