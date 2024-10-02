@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hinshawhinshaw.github.io/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hinshawhinshaw.github.io/publication/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hinshawhinshaw.github.io/authors/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +49,6 @@
   
   <url>
     <loc>https://hinshawhinshaw.github.io/tag/s-.cerevisiae/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hinshawhinshaw.github.io/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -394,6 +399,10 @@
   
   <url>
     <loc>https://hinshawhinshaw.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hinshawhinshaw.github.io/author/stephen-m.-hinshaw/</loc>
   </url>
   
 </urlset>

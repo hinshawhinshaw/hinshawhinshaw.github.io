@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. M. Hinshaw</title>
+    <title></title>
     <link>https://hinshawhinshaw.github.io/</link>
       <atom:link href="https://hinshawhinshaw.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. M. Hinshaw</description>
+    <description></description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hinshawhinshaw.github.io/images/icon_hu017c1915bbd8627e3e6ad4003a92dc64_292373_512x512_fill_lanczos_center_2.png</url>
-      <title>S. M. Hinshaw</title>
+      <title></title>
       <link>https://hinshawhinshaw.github.io/</link>
     </image>
     
@@ -343,6 +343,20 @@
 
   
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stephen M. Hinshaw</title>
+      <link>https://hinshawhinshaw.github.io/author/stephen-m.-hinshaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hinshawhinshaw.github.io/author/stephen-m.-hinshaw/</guid>
+      <description>&lt;p&gt;I am a Senior Scientist working in Nathanael Gray&amp;rsquo;s laboratory at Stanford (
+&lt;a href=&#34;https://chemh.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHEM-H&lt;/a&gt;, 
+&lt;a href=&#34;https://med.stanford.edu/cancer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCI&lt;/a&gt;, 
+&lt;a href=&#34;https://chemsysbio.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSB&lt;/a&gt;). We use modern tools in chemistry, cell biology, biochemistry, and structural biology to discover and improve small molecules as probes and as treatments for disease. As a HHWF/HHMI Postdoctoral Fellow working in 
+&lt;a href=&#34;https://crystal.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stephen Harrison&amp;rsquo;s laboratory&lt;/a&gt; at 
+&lt;a href=&#34;https://bcmp.hms.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Medical School&lt;/a&gt;, I focused on mechanisms that drive chromosome segregation and folding. I believe free education is a powerful tool for acheiving social and economic equality. I enjoy taking pictures, working in my garden, reading about bike stuff online, and making my own enzymes.&lt;/p&gt;
 </description>
     </item>
     
